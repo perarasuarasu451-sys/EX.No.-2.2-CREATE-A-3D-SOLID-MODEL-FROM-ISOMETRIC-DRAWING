@@ -110,7 +110,8 @@ Output:
 
 [EX 2.2 EDM 25004665.pdf](https://github.com/user-attachments/files/24931106/EX.2.2.EDM.25004665.pdf)
 
-<img width="1021" height="722" alt="Screenshot 2026-01-29 135117" src="https://github.com/user-attachments/assets/e72ce681-2b27-46af-97e3-294721fd5f93" />
+<img width="1027" height="731" alt="Screenshot 2026-02-11 080718" src="https://github.com/user-attachments/assets/5709dc86-8f49-4b7d-b39c-86cff7791dc9" />
+
 
 
 
